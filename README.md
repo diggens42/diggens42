@@ -13,5 +13,6 @@ Currently working on:
 
 ⚡ Fun Fact: When I'm not coding, you’ll find me lifting weights at the gym! 💪
 
-![Freddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=42magarine&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42magarine&layout=compact&theme=tokyonight)
+![Freddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diggens42&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diggens42&layout=compact&theme=tokyonight)
