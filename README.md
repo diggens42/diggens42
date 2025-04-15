@@ -6,8 +6,8 @@ Currently working on:
 - **[ft_transcendence](https://github.com/42magarine/ft_transcendence)** 🏓 - Real-time multiplayer Pong game with Fastify and SQLite
 
 🔧 Tech Stack:
-- **Languages**: C, C++, TypeScript, Python
-- **Tools**:  Docker, Fastify, NGINX, VIM
+- **Languages**: C, C++, TypeScript
+- **Tools**:  Docker, Git, Bash, Fastify, NGINX, VIM Motions
 - **Frontend**: Node.js, Tailwind CSS, HTML 
 - **Databases**: SQLite, MariaDB
 
