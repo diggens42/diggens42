@@ -1,6 +1,6 @@
 ### Hey, I'm **Freddie**! 👋
 
-💻 C /C++ / TypeScript Developer | Former FinTech Project Manager
+💻 C / C++ / TypeScript Developer | Former FinTech Project Manager
 
 Currently working on:
 - **[ft_transcendence](https://github.com/42magarine/ft_transcendence)** 🏓 - Real-time multiplayer Pong game with Fastify and SQLite
