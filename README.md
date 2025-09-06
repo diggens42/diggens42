@@ -3,7 +3,7 @@
 💻 C / C++ / TypeScript Developer | Former FinTech Project Manager
 
 Currently working on:
-- **[ft_transcendence](https://github.com/42magarine/ft_transcendence)** 🏓 - Real-time multiplayer Pong game with Fastify and SQLite
+- **[ft_ping](https://github.com/diggens42/ft_ping)** - recoding the ping command in C
 
 🔧 Tech Stack:
 - **Languages**: C, C++, TypeScript
