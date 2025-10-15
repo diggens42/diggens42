@@ -1,6 +1,6 @@
 ### Hey, I'm **Freddie**! 👋
 
-💻 C / C++ / TypeScript Developer | Former FinTech Project Manager
+💻 C / C++ / TypeScript Developer | Former Project Manager
 
 Currently working on:
 - **[ft_ping](https://github.com/diggens42/ft_ping)** - recoding the ping command in C
