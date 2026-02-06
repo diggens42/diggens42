@@ -9,7 +9,6 @@ In my free time I either:
 
 ---
 
-## 📊 GitHub Stats (Working in 2026)
 ![Freddie's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=diggens42&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=diggens42&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diggens42&layout=compact&theme=tokyonight)
